@@ -1,0 +1,106 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#div1{
+    background-color: #0f1111;
+    height: 60px;
+   
+}
+
+#amazon{
+    font-family: 'Times New Roman';
+    text-align: left;
+    height: 20px;
+    color: #f08804;
+}
+
+.same{
+    color: white;
+    font-size: 10px;
+    margin-left: 150px;
+}
+
+#search{
+    font-size: 8px;
+    height: 10px;
+    width: 90px;
+    margin-left: 70px;
+    border-radius: 5px;
+}
+
+button{
+    height: 13px;
+    width: 40px;
+    font-size: 8px;
+    background-color: #f08804;
+    
+}
+
+body{
+    background-color: bisque;
+}
+
+.size{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    margin: 20px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.heading{
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+#watch{
+    height: 120px;
+    width: 120px;
+    background-color: #f08804;
+    position: absolute;
+    left: 45px;
+    background-image: url(watch.jpg);
+    background-size: cover;
+}
+
+.shop{
+    font-size: 13px;
+    position: absolute;
+    top: 125px;
+    color: blue;
+    text-decoration: underline;
+}
+
+#shirt{
+    height: 120px;
+    width: 120px;
+    background-color: #0f1111;
+    position: relative;
+    left: 45px;
+    background-image: url(shirt.jpg);
+    background-size: cover;
+}
+
+#gym{
+    height: 120px;
+    width: 120px;
+    background-color: #0f1111;
+    position: relative;
+    left: 45px;
+    background-image: url(gym.jpg);
+    background-size: cover;
+}
+
+#offer{
+    height: 120px;
+    width: 120px;
+    background-color: #0f1111;
+    position: relative;
+    left: 45px;
+    background-image: url(offer.jpg);
+    background-size: cover;
+}
